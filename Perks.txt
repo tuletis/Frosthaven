@@ -1,0 +1,136 @@
+# Andmed pärinevad leheküljelt "https://www.gloomhavencards.com/fh/characters"
+
+
+"Tegelane"	"lisa_nimi"	"lisa"	"lisa_kasutused"
+"Blinkblade"	"Remove one -2 card"	"-(-2)"	1
+"Blinkblade"	"Replace one -1 card with one +1 card"	"-(-1).+(+1)"	2
+"Blinkblade"	"Replace one -1 card with one +0 bleed card"	"-(-1).+(+0&bl)"	2
+"Blinkblade"	"Replace one +0 card with one +1 immobilise card"	"-(+0).+(+1&im)"	2
+"Blinkblade"	"Replace one +0 card with with one ´Place this card in your active area. On your next attack, discard this card to add +2´ rolling card"	"-(+0).+(+2)"	3
+"Blinkblade"	"Replace two +1 cards with two +2 cards"	"-(+1).-(+1).+(+2).+(+2)"	1
+"Blinkblade"	"Add one -1 ´Gain 1 time token´ card"	"(-1&tt)"	2
+"Blinkblade"	"Add one +2 ´Regen, target self´ rolling card"	"+(+2&re&r)"	2
+"BannerSpear"	"Replace one -1 card with one shield 1 rolling card"	"-(-1).+(+1&sh&r)"	3
+"BannerSpear"	"Replace one +0 card with one +1 'Add +1 for each ally adjacent to the target' card"	"-(+0).+(+1&al)"	2
+"BannerSpear"	"Add one +1 disarm card"	"+(+1&dis)"	2
+"BannerSpear"	"Add one +2 push 1 card"	"+(+2&pu+1)"	2
+"BannerSpear"	"Add two +1 rolling cards"	"+(+1&r).+(+1&r)"	2
+"BannerSpear"	"Add two 'Heal 1, target self' rolling cards"	"+(+0&he+1&r).+(+0&he+1&r)"	2
+"BannerSpear"	"Ignore item -1 effects and remove one -1 card"	"-(-1)"	1
+"Boneshaper"	"Replace one -1 card with one +0 curse card"	"-(-1).+(+0&cu)"	2
+"Boneshaper"	"Replace one -1 card with one +0 poison card"	"-(-1).+(+0&po)"	2
+"Boneshaper"	"Replace one -2 card with one +0 card"	"-(-2).+(+0)"	1
+"Boneshaper"	"Replace one +0 card with one +1 'Kill the attacking summon to instead add +4' card"	"-(+0).+(+1&kl)"	3
+"Boneshaper"	"Add three 'Heal 1, target Boneshaper' cards"	"+(+0&he+1&r).+(+0&he+1&r).+(+0&he+1&r)"	2
+"Boneshaper"	"Add one +2 'earth or dark element' card"	"+(+2&(er/da))"	3
+"Boneshaper"	"Ignore scenario -1 and add two +1 cards"	"+(+1).+(+1)"	1
+"Drifter"	"Replace one -1 card with one +1 card"	"-(-1).+(+1)"	3
+"Drifter"	"Replace one -2 card with one +0 card"	"-(-2).+(+0)"	1
+"Drifter"	"Replace one +1 card with two +0 'Move one of your character tokens backwards one slot' card"	"-(+1).+(+0&mo).+(+0&mo)"	2
+"Drifter"	"Replace two +0 cards with two pierce 3 rolling cards"	"-(+0).-(+0).+(+0&pe+3&r).+(+0&pe+3&r)"	1
+"Drifter"	"Replace two +0 cards with  two push 2 rolling cards"	"-(+0).-(+0).+(+0&pu+2&r).+(+0&pu+2&r)"	1
+"Drifter"	"Add one +3 card"	"+(+3)"	1
+"Drifter"	"Add one +2 immoblise card"	"+(+2&im)"	2
+"Drifter"	"Add two 'Heal 1, target self' rolling cards"	"+(+0&he+1&r).+(+0&he+1&r)"	1
+"Drifter"	"Ignore scenario effects and add one +1 card"	"+(+1)"	1
+"Drifter"	"Ignore item -1 effects and add one +1"	"+(+1)"	1
+"Deathwalker"	"Remove to -1 cards"	"-(-1).-(-1)"	1
+"Deathwalker"	"Replace one -2 card with one +0 card"	"-(-2).-(+0)"	1
+"Deathwalker"	"Replace one -1 card with one +1 card"	"-(-1).+(+1)"	3
+"Deathwalker"	"Replace one +0 card with one +1 curse card"	"-(+0).-(+1&cu)"	3
+"Deathwalker"	"Add one +2 dark card"	"+(+2&da)"	2
+"Deathwalker"	"Add one disarm rolling and one muddle rolling card"	"+(+0&di).+(+0&mu)"	2
+"Deathwalker"	"Add two 'Heal 1, target ally' rolling cards"	"+(+0&he+1&r).+(+0&he+1&r)"	2
+"Geminate"	"Replace one -2 card with one +0 card"	"-(-2).+(+0)"	1
+"Geminate"	"Replace one -1 card with one +0 'use chaos: make chaos' card"	"-(-1).+(+0&ch)"	3
+"Geminate"	"Replace one +0 card with one +1 poison card"	"-(+0).+(+1&po)"	2
+"Geminate"	"Replace one +0 card with one +1 bleed card"	"-(+0).+(+1&bl)"	2
+"Geminate"	"Replace two +0 cards with two pierce 3 rolling cards"	"-(+0).-(+0).+(+0&pe+3&r)+(+0&pe+3&r)"	1
+"Geminate"	"Add two +1 push 3 cards"	"+(+1&pu+3).+(+1&pu+3)"	1
+"Geminate"	"Add one x2 'brittle, target self' card"	"+(x2&brs)"	1
+"Geminate"	"Add one +1 'regen, target self' rolling card"	"+(+1&re)"	2
+"CrashingTide"	"Replace one -1 card with two pierce 3 rolling cards"	"-(-1).+(+0&pe+3&r).+(+0&pe+3&r)"	2
+"CrashingTide"	"Replace one -1 card with one +0 '+1 target' card"	"-(-1).+(+0&tr+1)"	2
+"CrashingTide"	"Replace one +0 card with one +1 'shield' rolling card"	"-(+0).+(+1&sh&r)"	2
+"CrashingTide"	"Add two +1 'Uf you performed a Tide action this round, +2 instead' cards"	"+(+1&ti).+(+1&ti)"	2
+"CrashingTide"	"Add one +2 muddle card"	"+(+2&mu)"	2
+"CrashingTide"	"Add one +1 disarm card"	"+(+1&dis)"	1
+"CrashingTide"	"Add two 'Heal 1, target self' rolling cards"	"+(+0&he+1).+(+0&he+1)"	2
+"Deepwraith"	"Remove two -1 cards"	"-(-1).-(-1)"	1
+"Deepwraith"	"Replace one -1 card with one +0 disarm card"	"-(-1).+(+0&dis)"	2
+"Deepwraith"	"replace one -2 card with one +1 stun card"	"-(-2).+(+1&st)"	1
+"Deepwraith"	"Replace one +0 card with one +0 'invisible, target self' card'"	"-(+0).+(+0&inv)"	2
+"Deepwraith"	"Replace two +0 cards with two pierce 3 rolling cards"	"-(+0).-(+0).+(+0&pe+3&r).+(+0&pe+3&r)"	1
+"Deepwraith"	"Replace two +1 cards with two +2 cards"	"-(+1).-(+1).+(+2).+(+2)"	1
+"Deepwraith"	"Replace three +1 cards with three +1 curse cards"	"-(+1).-(+1).-(+1).+(+1&cu).+(+1&cu).+(+1&cu)."	1
+"Deepwraith"	"Add two +1 'Gain 1 Trophie' cards"	"+(+1&trf).+(+1&trf)"	3
+"Deepwraith"	"Ignore scenario effects and remove two +0 cards"	"-(+0).-(+0)"	1
+"FrozenFist"	"Replace one -1 card with one +0 disarm card"	"-(-1).+(+&dis)"	2
+"FrozenFist"	"Replace one -1 card with one +1 card"	"-(-1).+(+1)"	1
+"FrozenFist"	"Replace one -2 card with one +0 card"	"-(-2).+(+0)"	1
+"FrozenFist"	"Replace one +0 card with one +1 'shield' rolling card"	"-(+0).+(+1&sh&r)"	2
+"FrozenFist"	"Replace one +0 card with one +1 frost/nature element card"	"-(+0).+(+1&(fr/er))"	2
+"FrozenFist"	"Replace one +0 card with one +2 'Create one 1-hex icy terrain tile in a featureless hex adjacent to the target' card"	"-(+0).+(+2&icy)"	2
+"FrozenFist"	"Add one +3 card"	"+(+3)"	1
+"FrozenFist"	"Add two 'Heal 1, target self' rolling cards"	"+(+0&he+1&r).+(+0&he+1&r)"	3
+"Hive"	"Remoce one -2 card and one +1 card"	"-(-2).-(+1)"	1
+"Hive"	"Replace one -1 card with one +0 'After this attack ability, grant one of your summons: 2 move' card"	"-(-1).+(+0&sm)"	3
+"Hive"	"Replace one +0 card with one +1 'After this attack ability, Mode token"	"-(+0).+(+1&mt)"	3
+"Hive"	"Add one +1 'Heal 1, target self' card"	"+(+1&he+1).+(+1&he+1)"	3
+"Hive"	"Add one +2 muddle card"	"+(+2&mu)"	2
+"Hive"	"Add two poison rolling cards"	"+(+0&po&r).+(+0&po&r)"	1
+"Hive"	"Add two bleed rolling cards"	"+(+0&bl&r).+(+0&bl&r)"	1
+"Infuser"	"Replace one -2 card with one -1 and one -1 wind earth dark elements card"	"-(-2).+(-1).+(-1&wi&er&da)"	1
+"Infuser"	"Replace one -1 card with one +0 wind/earth element card"	"-(-1).+(+0&(wi/er))"	2
+"Infuser"	"Replace one -1 card with one +0 wind/dark element card"	"-(-1).+(+0&(wi/da))"	2
+"Infuser"	"Replace one -1 card with one +0 earth/dark element card"	"-(-1).+(+0&(er/da))"	2
+"Infuser"	"Replace one +0 card with one +2 card"	"-(+0).+(+2)"	2
+"Infuser"	"Replace one +0 card with three 'Move one waining elemnt to strong' card"	"-(+0).+(+0&wa)"	2
+"Infuser"	"Add two '+1 for each pair of active infusions' rolling cards"	"+(+0&infs).+(+0&infs)"	2
+"MetalMosaic"	"Replace one -1 card with one +0 'raise or lower pressure by 1' card"	"-(-1).+(+0&pr)"	3
+"MetalMosaic"	"Replace one -1 card with one 'shield' rolling card"	"-(-1).+(+0&sh&r)"	2
+"MetalMosaic"	"Replace one +0 card with one +0 'The target and all enemies adjacent to it suffer 1' card"	"-(+0).+(+0&su)"	2
+"MetalMosaic"	"Replace two +0 cards with one pierce 3 rolling and one retaliate 2 rolling card"	"-(+0).-(+0).+(+0&pe+3&r).+(+0&rt+2&r)"	2
+"MetalMosaic"	"Add one +1 'heal 2, target self' card"	"+(+1&he+2)"	2
+"MetalMosaic"	"Add one +3 card"	"+(+3)"	1
+"MetalMosaic"	"Ignore item -1 effects and add two +1 cards"	"+(+1).+(+1)"	1
+"PainConduit"	"Remove two -1 cards"	"-(-1).-(-1)"	2
+"PainConduit"	"Replace one -2 card with one -2 curse curse card"	"-(-2).+(-2&cu&cu)"	1
+"PainConduit"	"Replace one -1 card with one +0 disarm card"	"-(-1).+(+0&dis)"	1
+"PainConduit"	"Replace one +0 card with one +1 fire/wind card"	"-(+0).+(+1&fi/wi)"	3
+"PainConduit"	"Replace one +0 card with one +2 card"	"-(+0).+(+2)"	1
+"PainConduit"	"Replace three +1 cards with three +1 curse cards"	"-(+1).-(+1).-(+1).+(+1&cu).+(+1&cu).+(+1&cu)"	1
+"PainConduit"	"Add three 'Heal 1, target self' rolling cards"	"+(+0&he+1&r).+(+0&he+1&r).+(+0&he+1&r)"	2
+"PainConduit"	"Add one +0 'Add +1 for each negative condition you have' card"	"+(+0&pc)"	2
+"PainConduit"	"Ignore scenario effects and add two +1 cards"	"+(+1).+(+1)"	1
+"Pyroclast"	"Remove two -1 cards"	"-(-1).-(-1)"	1
+"Pyroclast"	"Remove one -2 card"	"-(-2)"	1
+"Pyroclast"	"Replace one +0 card with one +1 bleed card"	"-(-0).+(+1&bl)"	2
+"Pyroclast"	"Replace one -1 card with one +0 'Create one hazardous terrain tile in a featureless hex adjacent to the target' card"	"-(-1).+(+0&haz)"	2
+"Pyroclast"	"Replace two +0 cards with two push 2 rolling cards"	"-(+0).-(+0).+(+0&pu+2&r).+(+0&pu+2&r)"	2
+"Pyroclast"	"Replace two +0 cards with two +2 cards"	"-(+1).-(+1).+(+2).+(+2)"	1
+"Pyroclast"	"Add two +1 fire/earth cards"	"+(+1&(fi/er)).+(+1&(fi/er))"	2
+"Pyroclast"	"Add two +1 muddle rolling cards"	"+(+1&mu&r).+(+1&mu&r)"	1
+"Snowdancer"	"Replace one -1 card with one +0 'Heal 1, target ally' card"	"-(-1).+(+0&he+1)"	3
+"Snowdancer"	"Replace one -1 card with one +0 immoblise card"	"-(-1).+(+0&im)"	2
+"Snowdancer"	"Add two +1 frost/wind element cards"	"+(+1&fr/wi).+(+1&fr/wi)"	2
+"Snowdancer"	"Replace two +0 cards with two 'If this action forces the target to move, it suffers 1' rolling cards"	"-(+0).-(+0).+(+0&fm&r).+(+0&fm&r)"	2
+"Snowdancer"	"Replace one +0 card with one +1 'strengthen, target ally' card"	"-(+0).+(+1&sal)."	2
+"Snowdancer"	"Add one 'Heal 1, ward, target ally"	"+(+0&he+1&war)"	2
+"Shattersong"	"Remove four +0 cards"	"-(+0).-(+0).-(+0).-(+0)"	1
+"Shattersong"	"Replace two -1 cards with two +0 'Reveal top card of the targets monster ability deck' cards"	"-(-1).-(-1).+(+0&md).+(+0&md)"	2
+"Shattersong"	"Replace one -2 card with one -1 stun card"	"-(-2).-(-1&st)"	1
+"Shattersong"	"Replace one +0 card with one +0 brittle card"	"-(+0).+(+0&br)"	2
+"Shattersong"	"Replace two +1 cards with two +2 wind/light cards"	"-(+1).-(+1).+(+2&wi/li).+(+2&wi/li)."	2
+"Shattersong"	"Add one 'Heal 2, bless, target ally' rolling card"	"+(+0&he+2&bs)"	2
+"Shattersong"	"Add one +1 'Gain 1 Resonance token' card"	"+(+1&rt)"	3
+"Trapper"	"Remove one -2 card"	"-(-2)"	1
+"Trapper"	"Replace one -1 card with one +0 'Create one Heal 2 trap in an empty hex adjacent to target' card"	"-(-1).+(+0&htr)"	2
+"Trapper"	"Replace one -1 card with one +0 'Create one 1 dmg trap in an empty hex adjacent to the target' card"	"-(-1).+(+0&dtr)"	3
+"Trapper"	"Replace two +0 cards with two +0 'Add 2 damage or heal 2 to a trap within range 2 of you' cards"	"-(+0).-(+0).+(+0&adhd).+(+0&adhd)."	3
+"Trapper"	"Replace two +1 cards with two +2 immoblise cards"	"-(+1).-(+1).+(+2&im).+(+2&im)"	2
+"Trapper"	"Add two 'Add push 2 or pull 2 ' rolling cards"	"+(+0&pp&r).+(+0&pp&r)"	3
+
+
+
+
