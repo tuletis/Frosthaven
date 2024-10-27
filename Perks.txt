@@ -105,7 +105,7 @@
 "PainConduit"	"Ignore scenario effects and add two +1 cards"	"+(+1).+(+1)"	1
 "Pyroclast"	"Remove two -1 cards"	"-(-1).-(-1)"	1
 "Pyroclast"	"Remove one -2 card"	"-(-2)"	1
-"Pyroclast"	"Replace one +0 card with one +1 bleed card"	"-(-0).+(+1&bl)"	2
+"Pyroclast"	"Replace one +0 card with one +1 bleed card"	"-(+0).+(+1&bl)"	2
 "Pyroclast"	"Replace one -1 card with one +0 'Create one hazardous terrain tile in a featureless hex adjacent to the target' card"	"-(-1).+(+0&haz)"	2
 "Pyroclast"	"Replace two +0 cards with two push 2 rolling cards"	"-(+0).-(+0).+(+0&pu+2&r).+(+0&pu+2&r)"	2
 "Pyroclast"	"Replace two +0 cards with two +2 cards"	"-(+1).-(+1).+(+2).+(+2)"	1
